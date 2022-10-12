@@ -8,6 +8,11 @@ To set it up follow the instructions [here](https://github.com/codex-academy/Bas
 
 And then run the script in the `sql` folder like this on the `chinook` database - it will run a minute or so it's a big database.
 
+```
+\i sql/chinook.sql
+```
+
+
 ## Warmup SQL
 
 Run some SQL statements to:
