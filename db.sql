@@ -9,5 +9,5 @@ grant all privileges on database "chinook" to chi;
 ```
 
 
-psql -h localhost -p 5432 -U chi
+psql -h localhost -p 5432 -U chi -d chinook;
 
